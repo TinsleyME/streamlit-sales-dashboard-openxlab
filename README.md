@@ -1,3 +1,4 @@
+https://openxlab.org.cn/apps/detail/Tinsley/Smart_Dashboard
 
 # Interactive Dashboard with Python – Streamlit
 
